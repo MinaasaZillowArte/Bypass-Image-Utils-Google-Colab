@@ -1,4 +1,4 @@
-# Bypass Utils Image Detection: A Technical Deep-Dive
+# Bypass Utils Image Detection
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XMF0WDo61xWm7jbFe-qeCkeOG7Wxejtr?usp=sharing) 
