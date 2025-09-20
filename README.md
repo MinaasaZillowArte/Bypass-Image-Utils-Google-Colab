@@ -1,7 +1,7 @@
 # Bypass Utils Image Detection: A Technical Deep-Dive
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/drive/1XMF0WDo61xWm7jbFe-qeCkeOG7Wxejtr?usp=sharing) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XMF0WDo61xWm7jbFe-qeCkeOG7Wxejtr?usp=sharing) 
 
 Welcome to the front lines of the digital cat-and-mouse game between AI image generation and detection. This repository isn't just a collection of scripts, it's an interactive laboratory packaged in a Google Colab notebook. It's designed for anyone curious about peering under the hood of AI image detectors to understand their mechanisms, identify their blind spots, and learn how subtle image perturbations can render a synthetic image indistinguishable from a real one—at least to an algorithm.
 
